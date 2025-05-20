@@ -1,0 +1,4 @@
+# backend/requirements.txt
+Flask>=2.0
+psycopg2-binary>=2.9.* # Using -binary is common for ease of install
+python-dotenv>=0.19
